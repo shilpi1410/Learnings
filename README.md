@@ -1,5 +1,5 @@
 shilpi@Shilpi:~$ sudo systemctl start nginx
-Error:
+Error Got:
 
 Failed to start nginx.service: Unit nginx.service is masked.
 
