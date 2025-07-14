@@ -1,5 +1,7 @@
 shilpi@Shilpi:~$ sudo systemctl start nginx
-Error Got:
+# Added new content to README in new-branch :
+# Branching:Creating a new, independent line of development from another branch (usually main).Allows parallel work, experimentation, and isolation of features or fixes.
+# Merging: Combining changes from one branch (e.g., feature) into another (e.g., main).	Integrates completed work, maintaining a clean and collaborative workflow.
 
 Failed to start nginx.service: Unit nginx.service is masked.
 
